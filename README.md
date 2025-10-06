@@ -1,24 +1,14 @@
-🐾 PetPremium Landing Page
+# Lading Page Pet
 
 Landing page desenvolvida em Next.js como projeto de estudo, com o objetivo de praticar conceitos de React, TypeScript e design responsivo. A página apresenta os principais serviços de um pet shop fictício, com visual moderno e interativo.
 
-🚀 Tecnologias Utilizadas
+# Tecnologias usadas
 
 Next.js 15
 
-React
+React, TypeScript, Tailwind CSS, Embla Carousel, Lucide React Icons, React Icons (FontAwesome)
 
-TypeScript
-
-Tailwind CSS
-
-Embla Carousel
-
-Lucide React Icons
-
-React Icons (FontAwesome)
-
-📄 Estrutura do Projeto
+# Estrutura do projeto
 
 src/app/page.tsx — Página principal (Home)
 
@@ -32,7 +22,7 @@ src/components/Testimonials.tsx - Carrossel de depoimentos
 
 src/components/Footer.tsx - Informações complementares
 
-💡 Funcionalidades
+# Funcionalidades
 
 Design moderno e totalmente responsivo
 
