@@ -5,11 +5,17 @@ Landing page desenvolvida em Next.js como projeto de estudo, com o objetivo de p
 🚀 Tecnologias Utilizadas
 
 Next.js 15
+
 React
+
 TypeScript
+
 Tailwind CSS
+
 Embla Carousel
+
 Lucide React Icons
+
 React Icons (FontAwesome)
 
 📄 Estrutura do Projeto
