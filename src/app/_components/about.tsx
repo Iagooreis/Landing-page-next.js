@@ -53,6 +53,7 @@ export function About() {
 
                         <div className="flex gap-2">
                             <a href="#"
+                            target="_blank"
                             className="bg-[#E84C3D] text-white flex items-center justify-center w-fit gap-2 px-4 py-2 rounded-md hover:scale-110 duration-300">
                             <FaWhatsapp w-5 h-5 text-white/>
                             Contato via Whatsapp

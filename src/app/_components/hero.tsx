@@ -27,7 +27,7 @@ export function Hero() {
                     
 
                     <div>
-                    <a href="#services" className="bg-green-500 px-5 py-2 rounded-md font-semibold flex items-center justify-center w-fit gap-2">
+                    <a href="#services" target="_blank" className="bg-green-500 px-5 py-2 rounded-md font-semibold flex items-center justify-center w-fit gap-2">
                             <FaWhatsapp className="w-5 h-5" />
                             Contato via Whatsapp</a>
                     </div>

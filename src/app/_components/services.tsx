@@ -89,6 +89,7 @@ export function Services() {
                                             </div>
 
                                             <a href="#" 
+                                            target="_blank"
                                             className="flex items-center justify-center gap-2 hover:bg-red-500 px-4 py-1 rounded-md duration-300">
                                                 <FaWhatsapp className="w-5 h-5" />
                                                 <span>Entrar em contato</span>
