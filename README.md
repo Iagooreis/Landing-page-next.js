@@ -32,15 +32,5 @@ Seção de serviços com carrossel dinâmico
 
 Estrutura modular e reutilizável
 
-⚙️ Como Executar
-# Instalar dependências
-npm install
-
-# Rodar o servidor de desenvolvimento
-npm run dev
-
-# Acessar no navegador
-http://localhost:3000
-
 📸 Prévia
 <img width="1667" height="921" alt="image" src="https://github.com/user-attachments/assets/f6ec2670-748d-46a2-bb8b-6286f5b3d8ce" />
