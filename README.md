@@ -21,17 +21,25 @@ React Icons (FontAwesome)
 📄 Estrutura do Projeto
 
 src/app/page.tsx — Página principal (Home)
+
 src/components/Hero.tsx — Seção inicial de destaque
+
 src/components/About.tsx — Seção “Sobre”
+
 src/components/Services.tsx — Carrossel de serviços
+
 src/components/Testimonials.tsx - Carrossel de depoimentos
+
 src/components/Footer.tsx - Informações complementares
 
 💡 Funcionalidades
 
 Design moderno e totalmente responsivo
+
 Seção de serviços com carrossel dinâmico
+
 Ícones representando cada tipo de serviço
+
 Estrutura modular e reutilizável
 
 ⚙️ Como Executar
